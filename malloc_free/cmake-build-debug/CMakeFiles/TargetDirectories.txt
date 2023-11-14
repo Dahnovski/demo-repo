@@ -1,0 +1,3 @@
+D:/C_training/malloc_free/cmake-build-debug/CMakeFiles/malloc_free.dir
+D:/C_training/malloc_free/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C_training/malloc_free/cmake-build-debug/CMakeFiles/rebuild_cache.dir
